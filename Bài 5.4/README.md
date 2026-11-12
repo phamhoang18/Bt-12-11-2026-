@@ -3,7 +3,7 @@
 - **Mã số sinh viên:** 24810340415
 - **Lớp:** D19CNPM3
 - **Tên môn học:** Lập trình C# / Windows Forms 
-- **Tên bài tập:** BÀI 5.1: FORM ĐĂNG KÝ TÀI KHOẢN VÀ BẮT LỖI GIAO DIỆN (ERRORPROVIDER)
+- **Tên bài tập:** TRÌNH QUẢN LÝ TẬP TIN DẠNG CHUYÊN NGHIỆP (TREEVIEW & LISTVIEW)
 --- 
 ## KẾT QUẢ THỰC HÀNH 
 ### 1. Ảnh màn hình Giao diện chính 
