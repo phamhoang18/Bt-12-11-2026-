@@ -173,7 +173,7 @@ namespace ProductList
             }
             if (!decimal.TryParse(txtUnitPrice.Text.Trim(), out price) || price < 0)
             {
-                Warn("Đơn giá phải là số không âm!", txtUnitPrice);
+                Warn("Đơn giá phải là số không âm hoặc không để trống!", txtUnitPrice);
                 return false;
             }
             if (cboCategory.SelectedIndex < 0)
