@@ -10,11 +10,11 @@
 ![Giao diện chính](./screenshots/Bài_5.4_GDC.png) 
 ### 2. Ảnh màn hình Chức năng thực thi / Kết quả 
 #### Thực thi chức năng đổi chế độ xem
-!(./screenshots/Bài_5.4_change.png) 
+![](./screenshots/Bài_5.4_change.png) 
 
 ---------
 #### Thực thi chức năng chọn Node trên TreeView
-!(./screenshots/Bài_5.4_select.png)
+![](./screenshots/Bài_5.4_select.png)
 
 ---------
 
