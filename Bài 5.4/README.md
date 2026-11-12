@@ -10,7 +10,7 @@
 ![Giao diện chính](./screenshots/Bài_5.4_GDC.png) 
 ### 2. Ảnh màn hình Chức năng thực thi / Kết quả 
 ![Thực thi chức năng thêm](./screenshots/Bài_5.4_change.png) 
-
+---
 ---------
 ![Thực thi chức năng cập nhật](./screenshots/Bài_5.4_select.png)
 
